@@ -6,3 +6,6 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+Sitemap: https://mentoria-para-psicologos.desconto-no-curso.com.br/sitemap.xml
